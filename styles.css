@@ -35,3 +35,8 @@ li {
 section p {
     padding-left: 30px;
 }
+
+footer p:hover {
+    color: #508d44;
+    text-decoration: underline;
+}
